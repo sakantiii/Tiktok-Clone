@@ -12,7 +12,7 @@ This project was created as part of my learning process, so there may still be s
 #### 🛠️ **Tech Stack**
 * HTML5 – for page structure and video embedding
 * CSS3 – for layout, styling, and responsive design
-* JavaScript (Vanilla) – for simple animations and interactivity
+* JavaScript – for simple animations and interactivity
 
 #### 💡 **Features**
 - Home page with short-video style layout
